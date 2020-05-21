@@ -83,7 +83,7 @@ body {
             grid-area: 1/1/2/3;
             display: flex;
             align-items: center;
-            @include bg-image(/resources/images/bg-curve-desktop, no-repeat, bottom, contain);
+            @include bg-image("resources/images/bg-curve-desktop", no-repeat, bottom, contain);
             padding: 0 5% 20%;
         }
 
@@ -417,7 +417,7 @@ footer {
 
             .top {
                 padding: 30% 5% 40%;
-                @include bg-image(/resources/images/bg-curve-mobile, no-repeat, bottom, contain)
+                @include bg-image("/resources/images/bg-curve-mobile", no-repeat, bottom, contain)
             }
 
             .middle {
