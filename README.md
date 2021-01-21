@@ -1,2 +1,5 @@
 # fylo-landing-page-with-two-column-layout
-html, sass, css grid and flexbox
+
+> A landing page for fylo with a two column layout
+
+![screenshot](./resources/images/screenshot.png)
