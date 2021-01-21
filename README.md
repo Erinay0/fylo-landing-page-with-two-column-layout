@@ -2,4 +2,4 @@
 
 > A static landing page for fylo with a two column layout
 
-![screenshot](./resources/images/screenshot.png)
+![screenshot](./resources/images/fylo.png)
